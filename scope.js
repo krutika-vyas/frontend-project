@@ -64,3 +64,5 @@
 //     console.log(`${username} just logged in`)
 // }
 // myusername();
+
+console.log

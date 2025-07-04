@@ -19,13 +19,13 @@
 // const userbooks = books.filter( (book) => book.publish >1985 && book.genre === "science")
 //  console.log(userbooks);
 
-const mynums = [1,2,3,4,5,6,7,8,9,10]
-const nums = mynums.map( (num) => {
-    console.log(num);
-    return num + 10;
-})
+// const mynums = [1,2,3,4,5,6,7,8,9,10]
+// const nums = mynums.map( (num) => {
+//     console.log(num);
+//     return num + 10;
+// })
 // const nums = mynums.map( (num) => num * 10).map( (num) => num + 1).filter( (num) => num>=50)
-console.log(nums);
+// console.log(nums);
 
 //reduce
 // const mynums = [1,2,3,4,5]
@@ -70,3 +70,5 @@ console.log(nums);
 // function x(){
 //     console.log(this);
 // }
+
+console.log("git push test successfull");

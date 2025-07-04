@@ -71,4 +71,4 @@
 //     console.log(this);
 // }
 
-console.log("git push test successfull");
+console.log("push test on git successfully!");
